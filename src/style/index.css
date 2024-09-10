@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', sans-serif;
+    background-color: #f5dac1;
+    color: #713112;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+ 
+  h1 {
+    font-size: 3em;
+    margin: 0;
+    color: #fcfcfc;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+   
+  .anime-list-image {
+    width: 100%;
+    height: auto;
+    border-bottom: 5px solid #ac7777;
+  }
+ 
